@@ -3,7 +3,7 @@ body {
 }
 
 .title {
-  background-color: #ff4c68;
+  background-color: #ff1493;
   color: #fff;
 }
 
@@ -13,13 +13,13 @@ body {
 
 h1 {
   font-family: 'Montserrat-bold', sans-serif;
-  font-size: 3.5rem;
+  font-size: 3rem;
   line-height: 1.5;
   font-weight: bold;
 }
 
 h2{
-  font-size: 3rem;
+  font-size: 2.5rem;
   font-weight: bold;
   font-family: 'Montserrat-bold', sans-serif;
 }
@@ -59,6 +59,7 @@ h2{
 
 .nav-link{
   font-size: 1.2rem;
+  color: #778899;
 }
 
 .download-button{
@@ -91,20 +92,20 @@ h2{
 
 .testimonials-area{
   text-align: center;
-  background-color: #ff4c68;
+  background-color: #ff69b4;
   color: #fff;
   padding: 4rem;
 }
 
-.testimonial-image{
+.testimonial-image, .team-image{
   border-radius: 100%;
-  width: 30%;
+  width: 20%;
   margin: 20px;
 }
 
 .press-area{
   text-align: center;
-  background-color: #ff4c68;
+  background-color: #ff1493;
   padding: 3%;
 }
 
@@ -117,18 +118,18 @@ h2{
   padding: 7% 15%;
 }
 
-.pricing-section{
+.team-section{
   padding: 100px;
   text-align: center;
 }
 
-.pricing-column{
+.team-column{
   padding: 3% 2%;
 }
 
 .call-to-action{
   text-align: center;
-  background-color: #ff4c68;
+  background-color: #ff1493;
   color: #fff;
   padding: 5%;
 }
