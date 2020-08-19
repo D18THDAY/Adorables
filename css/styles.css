@@ -97,10 +97,18 @@ h2{
   padding: 4rem;
 }
 
-.testimonial-image, .team-image{
+.testimonial-image, .team-image, .team-image-ceo{
   border-radius: 100%;
   width: 20%;
   margin: 20px;
+}
+
+.team-image{
+  width: 50%;
+}
+
+.team-image-ceo{
+  width: 20%;
 }
 
 .press-area{
