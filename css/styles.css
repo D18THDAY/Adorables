@@ -68,10 +68,11 @@ h2{
 
 .title-image{
   width: 60%;
-  transform: rotate(25deg);
+  transform: rotate(0);
   margin: 5% auto 0;
   position: absolute;
   right: 25%;
+  border-radius: 25% 25% 0 0;
 }
 
 .feature-area{
